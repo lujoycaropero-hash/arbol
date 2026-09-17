@@ -1,0 +1,6 @@
+{
+  "name": "ML Tree Lab - Árboles y Random Forest",
+  "description": "Laboratorio didáctico e interactivo de Árboles de Decisión, Regresión y Random Forest con optimización de hiperparámetros, Validación Cruzada y GridSearchCV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
